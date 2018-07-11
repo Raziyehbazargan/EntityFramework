@@ -18,4 +18,4 @@ You can modify the database manually and update model from database. So, we can 
 
 
 
-####### refrence : https://www.c-sharpcorner.com/blogs/code-first-vs-database-first-vs-model-first-approach1
+###### refrence: `https://www.c-sharpcorner.com/blogs/code-first-vs-database-first-vs-model-first-approach1`
