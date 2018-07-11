@@ -14,8 +14,8 @@ If you have already a designed database and you don’t want to do extra effort 
 
 You can modify the database manually and update model from database. So, we can say, entity framework is able to create your model classes based on tables and columns from relational database.
 
-
-
+- Create your databse in SQl Server
+- In Visual Studio / Project , right click on the project and add `ADo.Net Entity Data Model` 
 
 
 ###### reference: `https://www.c-sharpcorner.com/blogs/code-first-vs-database-first-vs-model-first-approach1`
